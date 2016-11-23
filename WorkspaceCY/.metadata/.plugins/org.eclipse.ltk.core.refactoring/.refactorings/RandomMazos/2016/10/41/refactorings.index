@@ -1,0 +1,8 @@
+1476527333317	Move compilation unit
+1476527356769	Move compilation unit
+1476527373141	Copy compilation unit
+1476527385224	Delete element
+1476528557091	Encapsulate field 'name'
+1476528560436	Encapsulate field 'isUsed'
+1476528563857	Encapsulate field 'show'
+1476531108478	Encapsulate field 'elixir'
